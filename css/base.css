@@ -30,9 +30,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 2rem;
 
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+main{
+    width: 100%;
 }
 
 ul{

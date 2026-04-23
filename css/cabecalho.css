@@ -2,10 +2,9 @@
     position: absolute;
     z-index: 1;
     color: #fff;
+    /* background-color: var(--bg-dark-med); */
     width: 100%;
-    max-width: 1440px;
     height: auto;
-    padding: 1rem 2rem; 
 }
 
 .cabecalho__nav, .cabecalho__ul{
@@ -15,7 +14,7 @@
 
 .cabecalho__li{
     display: inline-block;
-    margin: 0.5rem  2rem;
+    margin: 1.5rem 2rem;
 }
 
 .cabecalho__li--active{
