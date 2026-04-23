@@ -1,19 +1,39 @@
+# 🚀 Front-End-Design-Engineering - TDS
 
+Este repositório centraliza os projetos e materiais de estudo da turma de Front-End. O foco é o desenvolvimento de interfaces modernas, acessíveis e performáticas, utilizando as melhores práticas do mercado.
 
-# PROJETO BASE 1TDSPJ
+## 📍 Roadmap de Aprendizado
 
-## ATIVIDADES
+Abaixo está o cronograma de competências da nossa jornada:
 
-```
-1 - Expandir a atividade apresentada criando novas páginas dentro da pasta paginas. Crie até 3 níveis de pastas.
-2 - Refatore o projeto para receber estas novas páginas e realizar navegação por hyperlinks entre elas.
-3 - Determine um thema para todas as páginas. Incluindo as páginas existentes. Com tema quero dizer que vamos falar sobre por exemplo; Esportes então teremos, a página de futebol, basquete etc;
-4 - Crie conteúdos adequados.
-5 - O index deve estar atualizado com os trechos iniciais de cada página.
-6 - Na página index ao lado do hiperlink mais adicione um pequeno ícone referente ao conteúdo.
-7 - E na página antes do conteúdo adicione a mesma imagem mas não ícone, uma imagem de 500px por 500px.
-8 - Para a imaggem utilize a tag <img src="caminho da imagem" alt="descrição"  width="largura" height="altura">
-9 - Para cada página faça um commit.
-10 - Faça um push e um PR, atualize a pages do git e verifique o resultado.
+### ✅ Concluído (Fundamentos)
+- **Versionamento:** Git e GitHub (Fluxo de trabalho e commits).
+- **Estrutura:** HTML5 e Semântica voltada para SEO.
+- **Estilização Base:** CSS3 (Inline, Interno e Externo).
+- **Seleção e Reset:** Seletores genéricos e específicos, Reset CSS básico.
+- **Tipografia:** Gerenciamento de fontes e unidades relativas (`rem`, `em`).
+- **Configuração Global:** Variáveis CSS com `:root`.
+- **Efeitos Visuais:** Overlays, Gradientes e Backgrounds avançados.
 
-### Obs: Caso queira que o Porf veja o resultado, enviei o link do repo e do pages via TEAMS.
+### 🚧 Em Andamento (Layout e Responsividade)
+- [ ] **Flexbox:** Alinhamento dinâmico e distribuição de espaço.
+- [ ] **CSS Grid Layout:** Estruturas de malhas bidimensionais complexas.
+- [ ] **Responsividade:** Uso de `@media-queries` para adaptação de dispositivos.
+
+### 🔮 Próximos Passos (Design e Lógica)
+- [ ] **Figma:** Prototipagem e Design System.
+- [ ] **JavaScript:** Lógica de programação e manipulação do DOM.
+- [ ] **TypeScript:** Tipagem estática e escalabilidade no Front-End.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 👨‍🏫 Instrutor
+**Prof. Alexandre C. de Jesus**
+*Front-End-Design-Engineering*
