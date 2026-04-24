@@ -37,3 +37,8 @@ Abaixo está o cronograma de competências da nossa jornada:
 ## 👨‍🏫 Instrutor
 **Prof. Alexandre C. de Jesus**
 *Front-End-Design-Engineering*
+
+
+## Para a próxima aula:
+
+- Realizar a estilização das seções remanescentes do main com grid e flexBOX.
